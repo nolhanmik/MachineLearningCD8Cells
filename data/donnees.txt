@@ -1,0 +1,4 @@
+Vous possédez normalement les données annotées (pas besoin d'utiliser la pipeline)
+
+Les données brutes sont disponibles sur le site : https://www.10xgenomics.com/datasets/cd-8-plus-t-cells-of-healthy-donor-3-1-standard-3-0-2
+Il faut normalement les annotées avec la pipeline dans source
